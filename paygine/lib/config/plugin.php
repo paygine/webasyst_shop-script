@@ -3,7 +3,7 @@
 return array(
 
 	'name' => 'Paygine',
-	'description' => 'Оплата по банковским картам с помощью <a href="http://paygine.net" target="_blank">Paygine</a>',
+	'description' => 'Оплата по банковским картам с помощью <a href="http://paygine.ru" target="_blank">Paygine</a>',
 	'icon' => 'img/paygine16.png',
 	'logo' => 'img/paygine.png',
 	'vendor' => 'paygine',
